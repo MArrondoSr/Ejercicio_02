@@ -17,6 +17,7 @@ namespace Ejercicio_02
             int punt_total;
 
             //push
+            // push de nuevo
 
                 Console.Write("Ingrese el nombre del participante: ");
 
